@@ -42,5 +42,7 @@ https://teachablemachine.withgoogle.com/models/4lpDQtV2e/
 - Tedsorflow.js -> Upload(shareable link) 생성하여 확인해 보기 
 
 - link 주소 복사하기
+
 개와 고양이 중 무엇을 더 닮았는지
+=========================
 https://teachablemachine.withgoogle.com/models/4lpDQtV2e/
